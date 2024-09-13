@@ -1,0 +1,13 @@
+
+// Bootstrap Overrides
+@import './partials/bs-overrides';
+
+//partials
+@import "./partials/styles"; 
+
+// Bootstrap SCSS dosyalarını import edin
+@import "../../../node_modules/bootstrap/scss/bootstrap";
+
+// Font Awesome
+@import'../../../node_modules/@fortawesome/fontawesome-free/css/all.css';
+

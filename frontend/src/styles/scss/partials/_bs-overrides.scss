@@ -1,0 +1,13 @@
+$primary:#0c9169;
+
+
+.card-section  .custom-carousel-button {
+    background: none; /* Arka plan rengini kaldırır */
+    border: none; /* Kenarlıkları kaldırır */
+    padding: 0; /* Butonların boşluklarını kaldırır */
+  }
+  
+  .card-section .carousel-icon {
+    color: black; /* Simgelerin rengini siyah yapar */
+    font-size: 2rem; /* İkonların boyutunu ayarlayabilirsiniz */
+  }
